@@ -221,8 +221,8 @@ Publish the website in the given URL.
     <p>📧 info@theroyalbites.com</p>
   </section>
   <footer>
-    Designed by Ashna.M
-    25018797
+    Designed by Subashram T
+    25012309
   </footer>
 </body>
 </html>
